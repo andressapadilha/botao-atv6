@@ -46,6 +46,7 @@
          
   
    11/09/2021 
+   
    Andressa Mikaela Padilha
    
 Para conseguir rodar o programa é necessário baixar o Arduino IDE, você pode encontrar pelo próprio site.
